@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TempoTact</title>
+    <link rel="stylesheet" href="static/css/Pomodoro.css" />
+  </head>
+  <body>
+    <header>
+      <div class="nav-main">
+        <div class="nav-logo">
+          <!-- <a href="/Home.html">TempoTact</a> -->
+        </div>
+        <div class="nav-items">
+          <ul>
+            <li><a href="/Home.html">Home</a></li>
+            <li><a href="/Schedule.html">Schedule</a></li>
+            <li><a href="/Pomodoro.html">Pomodoro Timer</a></li>
+            <li><a href="/EHM.html">Eisenhower Matrix</a></li>
+          </ul>
+        </div>
+        <!-- <div class="nav-small-profile">
+          <a href="#">Login</a>
+          <i class="bi bi-person-circle"></i>
+        </div> -->
+      </div>
+    </header>
+
+    <div class="page-container">
+      <div class="column-container">
+        <div class="timer-box-container">
+          <div class="btn-container">
+            <button id="focus-btn" class="MBTN">Focus!</button>
+            <button id="shortb-btn" class="MBTN">Short Break</button>
+            <button id="longb-btn" class="MBTN">Long Break</button>
+          </div>
+          <div id="timer-string" class="timer-container">25:00</div>
+          <button id="startBTN">START</button>
+          <div id="timer-count-string" class="timer-count">#1</div>
+        </div>
+      </div>
+
+      <div class="schedule-container">
+        <h1>Schedule:</h1>
+        <ol id="schedule-list">
+          <li class="schedule-item IU">
+            <span>Finish First thing</span>
+            <button class="remove-item-btn">X</button>
+            <p class="schedule-item-desc">Description about first thing</p>
+          </li>
+          <li class="schedule-item NIU">
+            <span>Finish Second thing</span>
+            <button class="remove-item-btn">X</button>
+            <p class="schedule-item-desc">Description about Second thing</p>
+          </li>
+          <li class="schedule-item INU">
+            <span>Finish Third thing</span>
+            <button class="remove-item-btn">X</button>
+            <p class="schedule-item-desc">Description about Third thing</p>
+          </li>
+          <li class="schedule-item NINU">
+            <span>Finish Fourth thing</span>
+            <button class="remove-item-btn">X</button>
+            <p class="schedule-item-desc">Description about Fourth thing</p>
+          </li>
+          <li class="schedule-item IU">
+            <span>Finish Fifth thing</span>
+            <button class="remove-item-btn">X</button>
+            <p class="schedule-item-desc">Description about Fifth thing</p>
+          </li>
+        </ol>
+      </div>
+    </div>
+    <script src="static/js/Pomodoro.js"></script>
+  </body>
+</html>

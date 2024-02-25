@@ -1,0 +1,4 @@
+C:\Users\belal\source\repos\WindowsServiceProject\WindowsServiceProject\bin\Release\net8.0\win-x64\publish\win-x64\appsettings.Development.json
+C:\Users\belal\source\repos\WindowsServiceProject\WindowsServiceProject\bin\Release\net8.0\win-x64\publish\win-x64\appsettings.json
+C:\Users\belal\source\repos\WindowsServiceProject\WindowsServiceProject\bin\Release\net8.0\win-x64\publish\win-x64\WindowsServiceProject.pdb
+C:\Users\belal\source\repos\WindowsServiceProject\WindowsServiceProject\bin\Release\net8.0\win-x64\publish\win-x64\WindowsServiceProject.exe

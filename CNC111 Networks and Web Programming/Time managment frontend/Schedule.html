@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TempoTact</title>
+    <link rel="stylesheet" href="static/css/Schedule.css" />
+  </head>
+  <body>
+    <header>
+      <div class="nav-main">
+        <div class="nav-logo">
+          <!-- <a href="/Home.html">TempoTact</a> -->
+        </div>
+        <div class="nav-items">
+          <ul>
+            <li><a href="/Home.html">Home</a></li>
+            <li><a href="/Schedule.html">Schedule</a></li>
+            <li><a href="/Pomodoro.html">Pomodoro Timer</a></li>
+            <li><a href="/EHM.html">Eisenhower Matrix</a></li>
+          </ul>
+        </div>
+        <!-- <div class="nav-small-profile">
+          <a href="#">Login</a>
+          <i class="bi bi-person-circle"></i>
+        </div> -->
+      </div>
+    </header>
+
+    <div class="page-container">
+
+      <div class="add-schedule-item-conatiner">
+        <h1>Add item to Schedule</h1>
+        <div class="schedule-form">
+          <input id="titleTB" type="text" placeholder="Enter Title Here">
+          <textarea id="descriptionTA" placeholder="Enter Description Here"></textarea>
+          <button id="submitBTN">Add</button>
+          <br>
+          <div class="propCHK">
+          <label>Urgent</label><input type="checkbox" id="UCB" checked />
+        </div>
+        <div class="propCHK">
+          <label>Important</label><input type="checkbox" id="ICB" checked />
+        </div>
+        </div>
+      </div>
+
+
+      <div class="schedule-container">
+        <h1>Your Schedule</h1>
+        <ul id="schedule-list">
+        <li class="schedule-item NINU"><span>asdasdasd</span>
+          <button class="remove-item-btn">X</button>
+          <p class="schedule-item-desc">DescriptionDescription about first thingDescription about first thingDescription about first thingDescription about first thingDescription about first thingDescription about first thingDescription about first thing about first thing</p>
+        </li>
+      <ul>
+      </div>
+
+    </div>
+    <script src="static/js/Schedule.js"></script>
+  </body>
+</html>

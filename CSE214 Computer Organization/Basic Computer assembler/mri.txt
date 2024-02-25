@@ -1,0 +1,7 @@
+and 000
+add 001
+lda 010
+sta 011
+bun 100
+bsa 101
+isz 110

@@ -1,0 +1,11 @@
+C:\Users\belal\source\repos\LAB\LAB\bin\Debug\LAB.exe.config
+C:\Users\belal\source\repos\LAB\LAB\bin\Debug\LAB.exe
+C:\Users\belal\source\repos\LAB\LAB\bin\Debug\LAB.pdb
+C:\Users\belal\source\repos\LAB\LAB\obj\Debug\LAB.csproj.AssemblyReference.cache
+C:\Users\belal\source\repos\LAB\LAB\obj\Debug\LAB.csproj.SuggestedBindingRedirects.cache
+C:\Users\belal\source\repos\LAB\LAB\obj\Debug\LAB.Form1.resources
+C:\Users\belal\source\repos\LAB\LAB\obj\Debug\LAB.Properties.Resources.resources
+C:\Users\belal\source\repos\LAB\LAB\obj\Debug\LAB.csproj.GenerateResource.cache
+C:\Users\belal\source\repos\LAB\LAB\obj\Debug\LAB.csproj.CoreCompileInputs.cache
+C:\Users\belal\source\repos\LAB\LAB\obj\Debug\LAB.exe
+C:\Users\belal\source\repos\LAB\LAB\obj\Debug\LAB.pdb
