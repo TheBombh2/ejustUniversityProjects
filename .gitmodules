@@ -1,3 +1,6 @@
 [submodule "CSC122 Advanced Programming/Calculator-GUI"]
 	path = CSC122 Advanced Programming/Calculator-GUI
 	url = https://github.com/TheBombh2/Calculator-GUI
+[submodule "CSC211 Software Engineering/Westry"]
+	path = CSC211 Software Engineering/Westry
+	url = https://github.com/ZoonAttack/Westry.git
