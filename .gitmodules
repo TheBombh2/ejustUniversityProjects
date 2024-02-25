@@ -1,0 +1,6 @@
+[submodule "Resturant Subscription managment"]
+	path = CSC211 Software Engineering/Westry
+	url = https://github.com/ZoonAttack/Westry.git
+[submodule "Scientific Calculator"]
+	path = CSC122 Advanced Programming/Calculator-GUI
+	url = https://github.com/TheBombh2/Calculator-GUI.git
