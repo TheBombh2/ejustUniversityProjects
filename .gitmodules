@@ -4,3 +4,6 @@
 [submodule "Scientific Calculator"]
 	path = CSC122 Advanced Programming/Calculator-GUI
 	url = https://github.com/TheBombh2/Calculator-GUI.git
+[submodule "CSC221 Operating Systems/ChatRoomsApp"]
+	path = CSC221 Operating Systems/ChatRoomsApp
+	url = https://github.com/TheBombh2/ChatRoomsApp.git
