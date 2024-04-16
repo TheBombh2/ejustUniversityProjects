@@ -7,3 +7,6 @@
 [submodule "CSC221 Operating Systems/ChatRoomsApp"]
 	path = CSC221 Operating Systems/ChatRoomsApp
 	url = https://github.com/TheBombh2/ChatRoomsApp.git
+[submodule "CSE312 Discrete Mathematics/Small-Expert-System"]
+	path = CSE312 Discrete Mathematics/Small-Expert-System
+	url = https://github.com/TheBombh2/Small-Expert-System
